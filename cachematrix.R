@@ -7,7 +7,7 @@
 ##         x <- matrix(c(0, 2, 1, 0), nrow = 2, ncol = 2)
 ##      2. Create cacheMatrix
 ##         cacheMatrix <- makeCacheMatrix(x)
-##      3. Calculate inversed matrix of x
+##      3. Calculate the inverse of x
 ##         cacheSolve(cacheMatrix)
 ## Repeat step 3. again will return cached data
 
